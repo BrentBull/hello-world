@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Just freshing up on git!
